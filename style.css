@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    font-size: 18px;
+    line-height:1.7;
+}
+
+.recipe-link {
+    color:black;
+    background-color:burlywood;
+}
+
+.recipe-link:hover {
+    color:black;
+    background-color:rgb(231, 206, 231);
+}
+
+h1 {
+    text-decoration: overline;
+    text-decoration-color: olive;
+    text-decoration-thickness: 5px;
+}
+
+li {
+    font-size: 16px;
+}
